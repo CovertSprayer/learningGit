@@ -1,1 +1,2 @@
 dummy text to check merge conflict
+dummy text
